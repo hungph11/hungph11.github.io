@@ -51,13 +51,13 @@ Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Th
 - *2023 - 2025*, Teaching Assistant, SoICT, HUST.
 
 # 🎖 Honors and Awards
-- *2026* AAAI-26 Student Scholarship.
-- *2025* Best Presentation Award, SoICT Thesis Committee, HUST.
-- *2025* Second Prize, Competition on LLM-designed Evolutionary Algorithms, GECCO 2025.
-- *2025* Second Prize, Numerical Global Optimization Competition on GNBG-II, GECCO 2025.
-- *2025* Second Prize, Scientific Research Student Conference, HUST.
-- *2025* Second Prize, AI4Industry Hackathon.
-- *2024* Second Prize, SoICT Hackathon 2024.
+- *2026* &nbsp; AAAI-26 Student Scholarship.
+- *2025* &nbsp; Best Presentation Award, SoICT Thesis Committee, HUST.
+- *2025* &nbsp; Second Prize, Competition on LLM-designed Evolutionary Algorithms, GECCO 2025.
+- *2025* &nbsp; Second Prize, Numerical Global Optimization Competition on GNBG-II, GECCO 2025.
+- *2025* &nbsp; Second Prize, Scientific Research Student Conference, HUST.
+- *2025* &nbsp; Second Prize, AI4Industry Hackathon.
+- *2024* &nbsp; Second Prize, SoICT Hackathon 2024.
 - Academic Achievement Scholarship (top 4%), HUST; Vietnam Electricity, Vietcombank, and FPT Smart Cloud Young Talent Scholarships.
 
 
