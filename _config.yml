@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hung Phan"
-description              : "Hung Phan - Ph.D. student at the National University of Singapore. LLMs, multi-objective and combinatorial optimization."
+description              : "Hung Phan - Ph.D. student at the National University of Singapore."
 repository               : "hungph11/hungph11.github.io"
 
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hung Phan"
-  avatar           : "images/profile.png"
+  avatar           : "images/avatar.jpeg"
   bio              : "Ph.D. Student, National University of Singapore"
   location         : "Singapore"
   employer         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hwnginsoict"
+  linkedin         : "hungph11"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
