@@ -32,8 +32,7 @@ Previously, I received my B.Eng. in Data Science & Artificial Intelligence from 
 
 Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Thanh Binh
 
-*AAAI Conference on Artificial Intelligence (AAAI), 2026* &nbsp;\| [**Paper**](https://arxiv.org/abs/2507.20923)
-- MPaGE: an LLM-driven evolutionary framework that uses a Pareto Front Grid to design heuristics that are both effective and efficient across multiple objectives.
+*AAAI Conference on Artificial Intelligence (AAAI), 2026*
 </div>
 </div>
 
@@ -43,13 +42,13 @@ Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Th
 
 - [Adaptive Ant Colony Optimization for Solving Dynamic Vehicle and Drone Routing with Time Window Constraints](https://doi.org/10.1007/s12065-025-01092-0) \
   **Hung Phan**, Nguyen Thi Tam, Huynh Thi Thanh Binh \
-  ***Evolutionary Intelligence***, 18(5), 2025
+  ***Evolutionary Intelligence***, 2025
 
 # 💼 Experience
-- *2025.11 - 2026.08*, **Research & Teaching Assistant**, VinUniversity. \
-- *2022.09 - 2026.08*, **Student Researcher**, Computational Intelligence and Optimization Lab, HUST. \
-- *2024.04 - 2024.11*, **AI Engineer Intern**, GenAI Center, FPT.AI. \
-- *2023 - 2025*, **Teaching Assistant**, SoICT, HUST. \
+- *2025.11 - 2026.08*, **Research & Teaching Assistant**, VinUniversity. 
+- *2022.09 - 2026.08*, **Student Researcher**, Computational Intelligence and Optimization Lab, HUST. 
+- *2024.04 - 2024.11*, **AI Engineer Intern**, GenAI Center, FPT.AI. 
+- *2023 - 2025*, **Teaching Assistant**, SoICT, HUST. 
 
 # 🎖 Honors and Awards
 - *2026* AAAI-26 Student Scholarship.
