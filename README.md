@@ -13,8 +13,5 @@ Personal academic homepage, built on [acad-homepage](https://github.com/RayeRen/
 
 Edit directly on github.com (pencil icon) or locally, then commit & push — the site rebuilds in ~1 minute.
 
-## Citation badges (optional)
-Add repo secret `GOOGLE_SCHOLAR_ID` = `bFzFJMgAAAAJ` (Settings → Secrets → Actions); the daily workflow then writes citation data to the `google-scholar-stats` branch.
-
 ## Local preview (optional)
 `bundle install && bundle exec jekyll serve` → http://localhost:4000

@@ -53,17 +53,6 @@ Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Th
   **Hung Phan**, Nguyen Thi Tam, Huynh Thi Thanh Binh \
   ***Evolutionary Intelligence***, 18(5), 2025
 
-### Preprints
-
-- Automated Inverse Optimization with LLMs via Verification-Guided Hypothesis Search \
-  **Hung Phan**, Jieyi Bi, Hoang Ta, Zhuoyi Lin, Yining Ma \
-  *Under review, 2026*
-
-- MMP-A\*: Multimodal Perception Enhanced Incremental Heuristic Search on Path Planning \
-  Minh Hieu Ha, Khanh Ly Ta, **Hung Phan**, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Thanh Binh \
-  *Under review, 2026*
-
-
 # 💼 Experience
 - *2025.11 - 2026.08*, **Research & Teaching Assistant**, OLab, VinUniversity. \
   Multi-objective optimization for trustworthy machine learning. Advisor: Asst. Prof. Chu Thi Mai Hong.
