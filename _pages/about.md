@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Hung Phan, a first-year Ph.D. student at the National University of Singapore (NUS).
+I'm Hung Phan, a first-year CS Ph.D. student at the National University of Singapore (NUS).
 
 
 Previously, I received my B.Eng. in Data Science & Artificial Intelligence from Hanoi University of Science and Technology (HUST), where I was fortunated to be supervised by [Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ) and [Prof. Tam Nguyen](https://scholar.google.com/citations?user=SFOoOkQAAAAJ).
