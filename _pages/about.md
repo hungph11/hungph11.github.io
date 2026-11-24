@@ -16,10 +16,10 @@ I'm Hung Phan, a first-year Ph.D. student at the National University of Singapor
 Previously, I received my B.Eng. in Data Science & Artificial Intelligence from Hanoi University of Science and Technology (HUST), where I was fortunated to be supervised by [Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ) and [Prof. Tam Nguyen](https://scholar.google.com/citations?user=SFOoOkQAAAAJ).
 
 # 🔥 News
-- *2026.01*: &nbsp;🎤 Presented MPaGE at **AAAI-26** in Singapore, supported by the AAAI-26 Student Scholarship.
-- *2025.11*: &nbsp;🎉 MPaGE is accepted to **AAAI 2026**.
+- *2026.01*: &nbsp;🎤 Attended and presented at AAAI-26 in Singapore, supported by the AAAI-26 Student Scholarship.
+- *2025.11*: &nbsp;🎉 MPaGE is accepted to AAAI 2026.
 - *2025.07*: &nbsp;🎓 Graduated from HUST with Highest Distinction; received the Best Presentation Award.
-- *2025.07*: &nbsp;🏆 Presented at **GECCO '25** in Málaga and won two Second Prizes in GECCO competitions.
+- *2025.07*: &nbsp;🏆 Presented at GECCO '25 in Málaga and won two Second Prizes in GECCO competitions.
 
 
 # 📝 Publications
@@ -38,11 +38,11 @@ Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Th
 
 - [Pareto Front Grid Guided Multiobjective Optimization in Dynamic Pickup and Delivery Problem Considering Two-Sided Fairness](https://dl.acm.org/doi/10.1145/3712256.3726467) \
   **Hung Phan**, Duc Bui Trong, Tam Nguyen Thi, Huynh Thi Thanh Binh \
-  *Genetic and Evolutionary Computation Conference (**GECCO**), 2025*
+  *Genetic and Evolutionary Computation Conference (GECCO), 2025*
 
 - [Adaptive Ant Colony Optimization for Solving Dynamic Vehicle and Drone Routing with Time Window Constraints](https://doi.org/10.1007/s12065-025-01092-0) \
   **Hung Phan**, Nguyen Thi Tam, Huynh Thi Thanh Binh \
-  ***Evolutionary Intelligence***, 2025
+  *Evolutionary Intelligence*, 2025
 
 # 💼 Experience
 - *2025.11 - 2026.08*, Research & Teaching Assistant, VinUniversity.

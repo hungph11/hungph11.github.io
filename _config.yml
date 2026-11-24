@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hung Phan"
-description              : "Hung Phan - Ph.D. student at the National University of Singapore."
+description              : "Get rich by agents."
 repository               : "hungph11/hungph11.github.io"
 
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hung Phan"
   avatar           : "images/avatar.jpeg"
-  bio              : "Ph.D. Student, National University of Singapore"
+  bio              : "Ph.D. Student, NUS"
   location         : "Singapore"
   employer         :
   pubmed           : 
