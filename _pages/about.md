@@ -45,10 +45,10 @@ Minh Hieu Ha\*, **Hung Phan**\*, Tung Duy Doan, Tung Dao, Dao Tran, Huynh Thi Th
   ***Evolutionary Intelligence***, 2025
 
 # 💼 Experience
-- *2025.11 - 2026.08*, **Research & Teaching Assistant**, VinUniversity.
-- *2022.09 - 2026.08*, **Student Researcher**, Computational Intelligence and Optimization Lab, HUST.
-- *2024.04 - 2024.11*, **AI Engineer Intern**, GenAI Center, FPT.AI.
-- *2023 - 2025*, **Teaching Assistant**, SoICT, HUST.
+- *2025.11 - 2026.08*, Research & Teaching Assistant, VinUniversity.
+- *2022.09 - 2026.08*, Student Researcher, Computational Intelligence and Optimization Lab, HUST.
+- *2024.04 - 2024.11*, AI Engineer Intern, GenAI Center, FPT.AI.
+- *2023 - 2025*, Teaching Assistant, SoICT, HUST.
 
 # 🎖 Honors and Awards
 - *2026* AAAI-26 Student Scholarship.
